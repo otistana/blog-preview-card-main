@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![(./Screenshot 2026-10-04.png)]
+![./Screenshot 2026-10-04.png]
 
 ### Links
 
@@ -63,7 +63,5 @@ When I had difficulty with the sizing and positioning of the card and avatar, I 
 Using AI this way helped me solve problems while also learning more about the CSS concepts behind the solution. It was most useful when I treated the AI as a teaching and debugging tool rather than simply asking it to write the project for me.
 
 
-### Continued development
 
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
 
