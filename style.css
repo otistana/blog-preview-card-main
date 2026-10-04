@@ -41,7 +41,7 @@ main {
   gap: 0.9rem;
 }
 
-.card img {
+.card > img {
   width: 100%;
   display: block;
   border-radius: 0.75rem;
@@ -82,10 +82,10 @@ main {
 }
 
 .avatar {
-  width: 40px;
-  height: 40px;
+ vertical-align: middle;
+  width: 24px;
+  height: 24px;
   border-radius: 50%;
-  object-fit: cover;
 }
 
 .author-name {
