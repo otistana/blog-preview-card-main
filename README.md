@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/otistana/blog-preview-card-main]
+- Live Site URL: [https://otistana.github.io/blog-preview-card-main/]
 
 ## My process
 - I worked through this project step by step and coded most of it myself. When I wasn't sure where to start or got stuck on something, I asked ChatGPT questions and had it explain things to me as I went. It was basically like having a teacher sitting next to me while I worked.
